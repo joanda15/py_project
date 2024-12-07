@@ -87,4 +87,12 @@ var_cadena2 = str(input("last string: "))
 var_cadenas = (var_cadena1 + var_cadena2)
 print(var_cadenas)
 
-# Nueva rama
+# Operadores con cadenas string
+var_cadejemplo = str(input("Introduzca la cadena: "))
+var_cadmulti = " ".join([var_cadejemplo] * 3)
+print("It's string mul for 3: ", var_cadmulti)
+
+# Cadena con funciones
+var_cadfunc = "text for modify".capitalize()
+var_cadfunc2 = "text for modify replace".replace("for", "the")
+print(var_cadfunc, var_cadfunc2)

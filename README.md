@@ -41,4 +41,10 @@ AND, OR, NOT
 igual ==, diferente !=, mayor >, menor <, mayor igual>=, menor igual <=
 
 ## Cadena de string
-Es la union de 2 o mas string
+Es la union de 2 o mas stringn
+> Estos se usan junto con operadores
+> Funciones para las cadenas
+
+## Listas, Tuplas, Diccionarios
+lists son los tipos de datos mas modificables de todos se usan entre []
+Tuples las tuplas son como las listas pero no se puedenmodificar ()
